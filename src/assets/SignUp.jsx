@@ -46,7 +46,7 @@ function SignUp() {
         // console.log(newUser);
       } catch (error) {
         console.error("Error creating user:", error);
-        setFailmessage("Email already in use...")
+        setFailmessage("Email already in use...");
       }
     }
   }
@@ -85,7 +85,7 @@ function SignUp() {
           Submit
         </button>
       </form>
-      <div className="text-rose-700 text-xl w-fit mx-auto mt-2 underline">
+      <div className='text-rose-700 text-xl w-fit mx-auto mt-2 underline'>
         <p>{failmessage}</p>
       </div>
     </div>

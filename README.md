@@ -1,8 +1,27 @@
-# React + Vite
+<!-- @format -->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# DAD_JOKE_GENERATOR
 
-Currently, two official plugins are available:
+DAD_JOKE_GENERATOR is a web application that allows users to get somewhat funny jokes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Hosted Link
+
+[Click here to view the page](https://dad-joke-generator-one.vercel.app/)
+
+## Features
+
+- **Login/SignUp** : Login or SignUp to start
+- **Click**: Users can click for a new joke.
+- **Other**: That's it what more do you want.
+
+## Technologies Used
+
+- HTML
+- CSS
+- React
+
+## Contributors
+
+- [Anurag Shukla](https://github.com/anurag090697)
+
+Feel free to contribute to this project by submitting pull requests.

@@ -1,0 +1,17 @@
+/** @format */
+
+.container {
+  min-height: 100dvh;
+  background-image: url(https://th.bing.com/th/id/R.774fe652c0d7ab8e06afe0217c11bf8d?rik=PZyXYcRKYyMxyw&riu=http%3a%2f%2fclipart-library.com%2fnew_gallery%2f583028_cool-background-png.png&ehk=%2fX7hlcEEJGxiYaVhph7kze4sffzhgwdUsF0yJfsmrpY%3d&risl=&pid=ImgRaw&r=0);
+  background-position: center;
+  background-size: cover;
+}
+.home {
+  background-image: url(".\assets\pg & sg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 92dvh;
+}
+.loginpage {
+  background-image: url(https://cdn.wallpapersafari.com/27/78/GoqZhm.jpg);
+}
